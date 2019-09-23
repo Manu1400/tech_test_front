@@ -17,7 +17,12 @@ For the scope of this test, we just want to have a component that works with the
 
 Here is some views of the **Editable Field** :
 
+*Editable Field on Read-only mode*
+
 ![Editable Field on Read-only mode](./read_mode.png)
+
+
+*Editable Field on Edit mode*
 
 ![Editable Field on Edit mode](./edit_mode.png)
 
