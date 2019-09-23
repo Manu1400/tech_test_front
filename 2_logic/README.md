@@ -26,7 +26,9 @@ For that you will use :
 
 ## Scope
 
-- Try to keep coding in NodeJS. If another language is needed (and arguments for this are provided) try implementation in another language.
-- It has to run on environment with low memory limits (~400Mo RAM)
-- Maximum Skill Validation count is fixed to 50000
-- You can modify predefined Interfaces (that represent Domain Objects in Services) if it increase the reliability of the process.
+Browser Compatibility : minimum Internet Explorer 11, Chrome, Firefox
+React Version :
+- greater or equal than React 15 required
+- React 16 preferred
+
+Allowed Languages : Typescript, ES5, ES6
