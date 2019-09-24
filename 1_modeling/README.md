@@ -36,4 +36,6 @@ React Version :
 - greater or equal than React 15 required
 - React 16 preferred
 
-Allowed Languages : Typescript, ES5, ES6
+Allowed Languages : Typescript, ES5, ES6, ReasonML
+
+You can either setup a React environnement or use test driven development to test your component
