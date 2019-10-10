@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Initial state 1`] = `
+<div>
+  <label>
+    Name
+  </label>
+  <br />
+  <input
+    name="simple-input"
+    onChange={[Function]}
+    onClick={[Function]}
+    readOnly={true}
+    type="text"
+    value="Charlie Chaplin"
+  />
+</div>
+`;

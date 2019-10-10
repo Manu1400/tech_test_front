@@ -1,0 +1,21 @@
+{
+    "name": "modeling-test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "",
+    "license": "ISC",
+    "scripts": {
+        "test": "jest"
+    },
+    "dependencies": {
+        "@babel/preset-env": "^7.6.3",
+        "@babel/preset-react": "^7.6.3",
+        "@testing-library/react": "^9.3.0",
+        "babel-jest": "^24.9.0",
+        "jest": "^24.9.0",
+        "react": "^16.10.2",
+        "react-dom": "^16.10.2",
+        "react-test-renderer": "^16.10.2"
+    }
+}
